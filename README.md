@@ -13,7 +13,7 @@ In order to play the game properly, consider the following steps:
 1. Clone project:
 
     ```
-    $ git clone git@github.com:brenopolanski/udacity-classic-arcade-game-clone.git
+    $ git clone git@github.com:kurmivivek295/udacity-classic-arcade-game-clone.git
     ```
 2. Install `http-server`
 
